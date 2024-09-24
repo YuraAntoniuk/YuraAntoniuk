@@ -1,5 +1,5 @@
 ## Hi there 👋
-## My name is Юрій and i`m a student of Khmelnytsky National University 😄
+## I am Антонюк Юрій Олександрович and i`m a student of Khmelnytsky National University 😄
 ## I’m currently learning WEB-development ⚡
 ## I’m looking for any resourses to upgrade my skills 🤔
 <!--
