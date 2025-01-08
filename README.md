@@ -1,7 +1,5 @@
 ## Hi there 👋
-## I am Антонюк Юрій Олександрович and i`m a student of Khmelnytsky National University 😄
-## I’m currently learning WEB-development ⚡
-## I’m looking for any resourses to upgrade my skills 🤔
+
 <!--
 **YuraAntoniuk/YuraAntoniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
